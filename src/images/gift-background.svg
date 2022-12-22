@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2782.309" height="2434.305" viewBox="0 0 2782.309 2434.305">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.983" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5feff"/>
+      <stop offset="1" stop-color="#ecfeff"/>
+    </linearGradient>
+  </defs>
+  <path id="CTA_bg" data-name="CTA bg" d="M0,581.5S25.239,293.387,296.7,305.645s231.458,105.883,551.069,83.078,344.327-225.083,627.92-196,258.658-88.016,364.838-154.992c72.211-46.5,368.6-110.368,376.244,223.905s272.3,1252.584,272.3,1252.584l-1971.414,556.2Z" transform="translate(323.885) rotate(9)" fill="url(#linear-gradient)"/>
+</svg>

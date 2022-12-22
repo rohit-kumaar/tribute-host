@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117.977" height="81.622" viewBox="0 0 117.977 81.622">
+  <g id="Graduation_Icon" data-name="Graduation Icon" transform="translate(1.036 1.244)">
+    <path id="Path" d="M30.178,35.4h3.4A52.891,52.891,0,0,1,65.289,17.41V0H0V17.7A52.753,52.753,0,0,1,30.178,35.4Z" transform="translate(25.328 40.334)" fill="#6dc7b6" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <path id="Path-2" data-name="Path" d="M2.86,0H7.379l2.86,19.234H0Z" transform="translate(8.291 59.9)" fill="#e8595a" stroke="#23364e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <g id="Group" transform="translate(25.287 40.21)">
+      <path id="Path-3" data-name="Path" d="M0,7.462,32.624,24.209V16.747L0,0Z" transform="translate(0.041 0.124)" fill="#509a8f"/>
+      <path id="Path-4" data-name="Path" d="M0,16.747v7.462L32.624,7.462V0Z" transform="translate(32.665 0.124)" fill="#509a8f"/>
+    </g>
+    <path id="Path-5" data-name="Path" d="M30.178,35.4h3.4A52.891,52.891,0,0,1,65.289,17.41V0H0V17.7A52.753,52.753,0,0,1,30.178,35.4Z" transform="translate(25.328 40.334)" fill="none" stroke="#23364e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <path id="Path-6" data-name="Path" d="M57.745,57.081,0,27.4,57.745,0l57.745,27.4Z" transform="translate(0.207)" fill="#d3eee9" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <ellipse id="Oval" cx="4.767" cy="2.653" rx="4.767" ry="2.653" transform="translate(53.185 25.908)" fill="#509a8f" stroke="#23364e" stroke-miterlimit="10" stroke-width="2.487"/>
+    <path id="Path-7" data-name="Path" d="M44.521,0,0,5.513v23.3" transform="translate(13.431 28.561)" fill="none" stroke="#23364e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <rect id="Rectangle" width="4.56" height="3.648" transform="translate(11.192 56.252)" fill="#23364e" stroke="#23364e" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+    <path id="Path-8" data-name="Path" d="M115.489,27.4,57.745,0,0,27.4,57.745,57.081Z" transform="translate(0.207)" fill="none" stroke="#23364e" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.487"/>
+  </g>
+</svg>
